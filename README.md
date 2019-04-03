@@ -24,12 +24,10 @@
 
 <hr>
 
-<div align="center">
-
+<div>
   
-<a href="https://github.com/gayatri-01/BlinkABit/blob/master/BlinkABit.gif"></a>
-
-
+  ![Sample](https://github.com/gayatri-01/BlinkABit/blob/master/BlinkABit.gif)
+  
 </div>
 <hr>
 <div>
