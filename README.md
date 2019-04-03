@@ -73,7 +73,7 @@
 
 **This repository is a part of HackIt 24 hour hackathon organised by CSI-KJSCE**
 <br> 
-**This project was made with minimal preparation under 24hr**
+**This project was made with minimal preparation under 24 hours**
 
     
 
