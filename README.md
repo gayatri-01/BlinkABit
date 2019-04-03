@@ -61,8 +61,8 @@
 <h2><b>Contributors</b></h2>
 
 
-* Gayatri Srinivasan
 * Rahul Mistry
+* Gayatri Srinivasan 
 * Girish Thatte
 * Amisha Waghela
 
